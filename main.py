@@ -3,4 +3,16 @@ print('hello world')
 
 print('What')
 
-print('ssong에 push 실습')
+print('plz')
+
+print('merge->pull(ssong)->push(ssong)')
+
+print('aaaaaaaaaaaa')
+print('aaaaaaaaaaaa')
+print('aaaaaaaaaaabbbbba')
+print('aaaaaaaaaaaabbbbbbbbbbbbb')
+
+
+
+
+print("충돌1")
