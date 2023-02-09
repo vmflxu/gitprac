@@ -20,3 +20,13 @@ print("충돌1")
 print('충돌22')
 print('충돌22')
 print('충돌22')
+
+
+
+
+print("충돌1")
+print("충돌1")
+print("충돌1")
+print("충돌1")
+print("충돌1")
+print("충돌1")
