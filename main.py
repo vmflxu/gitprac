@@ -1,4 +1,3 @@
-print("김용민")
-print('hello world')
+print("깃허브연습하기")
 
-print('What')
+print("hi")
