@@ -4,3 +4,5 @@ print('hello world')
 print('What')
 
 print('plz')
+
+print('merge->pull(ssong)->push(ssong)')
